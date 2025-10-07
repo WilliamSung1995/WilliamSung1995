@@ -1,4 +1,4 @@
-# Hi there, I'm [Ashwin](https://ashwinhariharan.com/about) 😄 👋
+# Hi there, I'm [WangSung] 😄 👋
 
 🎯 *Full-stack dev | Creating Code and Writing Stories | Advocating for Usability & Developer Experience*
 
