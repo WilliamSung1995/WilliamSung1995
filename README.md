@@ -1,8 +1,8 @@
-# Hi there, I'm WangSung 😄 👋
+# Hi there, I'm William Sung 😄 👋
 
 🎯 *Full-stack dev | Creating Code and Writing Stories | Advocating for Usability & Developer Experience*
 
-I'm a full-stack developer building scalable web applications with a strong focus on usability and maintainability. I also love making technical jargon understandable for both technical and non-technical audiences on my [tech blog](https://booleanhunter.com/blog).
+I'm a full-stack developer building scalable web applications with a strong focus on usability and maintainability.
 
 ## My software engineering principles
 
